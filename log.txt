@@ -1,0 +1,12 @@
+--2019-09-17 06:42:08--  https://darksky.net/forecast/22.4950,88.3247/us12/en
+Resolving darksky.net (darksky.net)... 52.72.221.205, 34.193.179.91, 35.174.96.85, ...
+Connecting to darksky.net (darksky.net)|52.72.221.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79598 (78K) [text/html]
+Saving to: ‘temp.txt’
+
+     0K .......... .......... .......... .......... .......... 64%  230K 0s
+    50K .......... .......... .......                         100% 17.2M=0.2s
+
+2019-09-17 06:42:10 (355 KB/s) - ‘temp.txt’ saved [79598/79598]
+
